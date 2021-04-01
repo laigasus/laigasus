@@ -3,8 +3,8 @@
 ## 📊Status
 
 ![Laigasus's GitHub stats](https://github-readme-stats.vercel.app/api?username=laigasus&show_icons=true&theme=default)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laigasus&layout=compact&theme=default)](https://github.com/laigasus/github-readme-stats)<br>
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=laigasus&hide_title=true&hide_border=true&langs_count=5&theme=default)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laigasus&layout=compact&langs_count=8&theme=default)](https://github.com/laigasus/github-readme-stats)<br>
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=laigasus&show_icons=true&hide_title=true&langs_count=8&theme=default)<br>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flaigasus&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visited&edge_flat=false)](https://hits.seeyoufarm.com)
 ![GitHub followers](https://img.shields.io/github/followers/laigasus?style=social)<br>
 Blog: https://laigasus.github.io/
