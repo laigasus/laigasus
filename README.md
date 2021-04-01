@@ -4,6 +4,10 @@
 
 ![Laigasus's GitHub stats](https://github-readme-stats.vercel.app/api?username=laigasus&show_icons=true&theme=tokyonight)<br>
 
+📊 **This week I spent my time on**
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=laigasus&hide_title=true&hide_border=true&langs_count=5)
+
+
 ## Stack
 
 ### Web
