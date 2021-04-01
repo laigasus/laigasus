@@ -7,25 +7,36 @@
 ## stack
 
 ### web
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/javascript.svg" alt="JavaScript" width="40px" height="40px"></a>
-<a href="https://www.w3.org/TR/CSS/" title="CSS3">
-  <img src="https://github.com/tomchen/stack-icons/blob/master/logos/css-3.svg" alt="CSS3" width="40px" height="40px"></a>
-<a href="https://www.w3.org/TR/html5/" title="HTML5">
-  <img src="https://github.com/tomchen/stack-icons/blob/master/logos/html-5.svg" alt="HTML5" width="40px" height="40px"></a>
-<a href="https://www.java.com/" title="Java">
-  <img src="https://github.com/tomchen/stack-icons/blob/master/logos/java.svg" alt="Java" width="40px" height="40px"></a>
-<a href="https://spring.io/" title="Spring">
-  <img src="https://github.com/tomchen/stack-icons/blob/master/logos/spring.svg" alt="Spring" width="40px" height="40px"></a>
+  <img src="https://github.com/tomchen/stack-icons/blob/master/logos/javascript.svg" alt="JavaScript" width="40px" height="40px">
+  <img src="https://github.com/tomchen/stack-icons/blob/master/logos/css-3.svg" alt="CSS3" width="40px" height="40px">
+  <img src="https://github.com/tomchen/stack-icons/blob/master/logos/html-5.svg" alt="HTML5" width="40px" height="40px">
+  <img src="https://github.com/tomchen/stack-icons/blob/master/logos/java.svg" alt="Java" width="40px" height="40px">
+  <img src="https://github.com/tomchen/stack-icons/blob/master/logos/spring.svg" alt="Spring" width="40px" height="40px">
+  <img src="https://github.com/tomchen/stack-icons/blob/master/logos/flask.svg" alt="Flask" width="40px" height="40px">
+  <img src="https://github.com/tomchen/stack-icons/blob/master/logos/python.svg" alt="Python" width="40px" height="40px">
+  <img src="https://github.com/tomchen/stack-icons/blob/master/logos/heroku-icon.svg" alt="Heroku" width="40px" height="40px">
 
-<a href="https://www.python.org/" title="Flask">
-  <img src="https://github.com/tomchen/stack-icons/blob/master/logos/flask.svg" alt="Flask" width="40px" height="40px"></a>
-<a href="https://www.python.org/" title="Python">
-  <img src="https://github.com/tomchen/stack-icons/blob/master/logos/python.svg" alt="Python" width="40px" height="40px"></a>
-<a href="https://www.python.org/" title="Heroku">
-  <img src="https://github.com/tomchen/stack-icons/blob/master/logos/heroku-icon.svg" alt="Heroku" width="40px" height="40px"></a>
+### app
+
+  <img src="https://github.com/tomchen/stack-icons/blob/master/logos/android-icon.svg" alt="Android" width="40px" height="40px">
+  <img src="https://github.com/tomchen/stack-icons/blob/master/logos/kotlin.svg" alt="Kotlin" width="40px" height="40px">
+  <img src="https://github.com/tomchen/stack-icons/blob/master/logos/java.svg" alt="Java" width="40px" height="40px">
+
+### Server
+
+  <img src="https://github.com/tomchen/stack-icons/blob/master/logos/aws.svg" alt="AWS" width="40px" height="40px">
+  <img src="https://github.com/tomchen/stack-icons/blob/master/logos/google-cloud.svg" alt="Google Cloud Platform" width="40px" height="40px">
+  <img src="https://github.com/tomchen/stack-icons/blob/master/logos/oracle.svg" alt="Oracle" width="40px" height="40px">
+  <img src="https://github.com/tomchen/stack-icons/blob/master/logos/mysql.svg" alt="MySQL" width="40px" height="40px">
+
+### embeded
+
+  <img src="https://github.com/tomchen/stack-icons/blob/master/logos/c.svg" alt="C" width="40px" height="40px">
+  <img src="https://cdn.svgporn.com/logos/terminal.svg" alt="Linux Shell" width="40px" height="40px">
+  <img src="https://github.com/tomchen/stack-icons/blob/master/logos/raspberry-pi.svg" alt="Raspberry-pi" width="40px" height="40px">
+  <img src="https://github.com/tomchen/stack-icons/blob/master/logos/arduino.svg" alt="Arduino" width="40px" height="40px">
+  <img src="https://cdn.svgporn.com/logos/ubuntu.svg" alt="Ubuntu" width="40px" height="40px">
+  <img src="https://cdn.svgporn.com/logos/centos-icon.svg" alt="CentOS" width="40px" height="40px">
+  
 
 
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)" title="C">
-  <img src="https://github.com/tomchen/stack-icons/blob/master/logos/c.svg" alt="C" width="40px" height="40px"></a>
-<a href="https://dev.mysql.com/" title="MySQL">
-  <img src="https://github.com/tomchen/stack-icons/blob/master/logos/mysql.svg" alt="MySQL" width="40px" height="40px"></a>
