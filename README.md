@@ -8,7 +8,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flaigasus&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visited&edge_flat=false)](https://hits.seeyoufarm.com)
 ![GitHub followers](https://img.shields.io/github/followers/laigasus?style=social)<br>
 Blog: https://laigasus.github.io/
-
+[![wakatime](https://wakatime.com/badge/user/84cdd09b-8955-40e5-8279-6de4979e35c7.svg)](https://wakatime.com/@84cdd09b-8955-40e5-8279-6de4979e35c7)
 <!--
 ## Stack
 
