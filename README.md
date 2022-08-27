@@ -9,8 +9,6 @@
 [![wakatime](https://wakatime.com/badge/user/84cdd09b-8955-40e5-8279-6de4979e35c7.svg)](https://wakatime.com/@84cdd09b-8955-40e5-8279-6de4979e35c7)<br>
 ![GitHub followers](https://img.shields.io/github/followers/laigasus?style=social)<br>
 
-Blog: https://laigasus.github.io/
-
 <!--
 ## Stack
 
