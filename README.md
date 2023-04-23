@@ -44,7 +44,5 @@
 
 ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=laigasus&show_icons=true&langs_count=3&theme=dark)
 
-### ⚙️ solved.ac
-
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=laigasus)](https://solved.ac/laigasus)
+### ⚙️ [solved.ac](https://solved.ac/profile/laigasus)
+![laigasus's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=laigasus)
