@@ -14,5 +14,3 @@
 
 ## ⚙️ [solved.ac](https://solved.ac/profile/laigasus)
 ![laigasus's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=laigasus)
-
-![red-hat-certified-system-administrator-rhcsa (1)](https://github.com/user-attachments/assets/ddc9efa8-bc80-41fa-9634-aab60b9543c0)
