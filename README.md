@@ -1,6 +1,4 @@
 ## Muzik 🎶, Sweet 🥯 & Keyboard ⌨️
-[포트폴리오(2025).pdf](https://github.com/user-attachments/files/18657695/2025_._.pdf)
-
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flaigasus&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) [![wakatime](https://wakatime.com/badge/user/84cdd09b-8955-40e5-8279-6de4979e35c7.svg)](https://wakatime.com/@84cdd09b-8955-40e5-8279-6de4979e35c7)
 
